@@ -1,4 +1,4 @@
-package com.charlew.reactiveexercise
+package com.charlew.reactive_exercise
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
